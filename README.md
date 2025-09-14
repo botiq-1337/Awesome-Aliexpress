@@ -28,6 +28,5 @@
 
 ### Articles
 #### Misc articles
-* [41PCS Heavy Equipment Keys Set For Case Cat Komatsu JCB Kubota Bobcat JLG CAT Volvo KAT - AliExpress 34
-](https://aliexpress.com/item/1005007628014097.html) \(Article content described [here](./resources/heavy-equipment-41-keys-pack.md)\)
+* [41PCS Heavy Equipment Keys Set For Case Cat Komatsu JCB Kubota Bobcat JLG CAT Volvo KAT](https://aliexpress.com/item/1005007628014097.html) => the content of this article is described and the keys' IDs are ordered by equipment brand [here](./resources/heavy-equipment-41-keys-pack.md)
 * ....
